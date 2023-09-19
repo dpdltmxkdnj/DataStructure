@@ -113,6 +113,8 @@ public class LinkedListEx<T> {
         ex.add(2);
         ex.add(3);
         ex.add(4);
+        ex.add(5);
+
         ex.insert(3,9);
         System.out.println(ex.get(0).getValue());
 
